@@ -6,6 +6,7 @@
 
 http://parkjs814.github.io/AlgorithmVisualizer
 
+
 ![Algorithm Visualizer](http://i.giphy.com/3o6EhJFgsyShX6MHeM.gif)
 
 ### Contributing
